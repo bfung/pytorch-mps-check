@@ -1,0 +1,8 @@
+pyobjc-framework-Metal
+pyobjc-framework-MetalPerformanceShaders
+
+--pre
+--extra-index-url https://download.pytorch.org/whl/nightly/cpu
+torch
+torchaudio
+torchvision
